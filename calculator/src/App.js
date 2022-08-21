@@ -5,9 +5,9 @@ import Calculator from './components/Calculator';
 function App() {
   return (
     <div className="App">
-      <div className='container border border-primary'>
+      
         <Calculator/>
-      </div>
+      
 
     </div>
   );
